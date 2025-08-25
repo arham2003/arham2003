@@ -18,4 +18,4 @@ My recent focus is on mastering the modern web stack using **Next.js**, **React*
 ![](https://github-contributor-stats.vercel.app/api?username=arham2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arham2003&icon=0&color=7)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=arham2003)
